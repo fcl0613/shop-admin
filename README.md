@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm installadasf
 ```
 
 ### Compiles and hot-reloads for development
